@@ -1,0 +1,16 @@
+# Fabric Tutorial Mod 1.21.8
+
+## This mod *will* contain:
+> An item or two
+> 
+> Hopefully a **crafting recipe**
+> 
+> Maybe a new **mechanic**
+
+This is my first mod, so i'm not sure how much it will bring to a survival experience, but i will try!
+
+Just learning Github as well, and also Markdown!
+
+A lot of code in this repo will be taken from [this tutorial.](https://www.youtube.com/watch?v=oU8-qV-ZtUY)
+
+Will add more if the time comes.
